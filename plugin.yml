@@ -7,3 +7,8 @@ description: raft survival command but type ui
 commands:
   raftui:
     description: "-"
+
+permissions:
+  raft.ui:
+    description: "-"
+    default: op
