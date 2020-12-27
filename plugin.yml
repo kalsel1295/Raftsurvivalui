@@ -7,7 +7,7 @@ description: raft survival command but type ui
 commands:
   raftui:
     description: "-"
-    permission: "raft.ui"
+    permission: raft.ui
 
 permissions:
   raft.ui:
